@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @CaioBR82
-- 👀 I’m interested in learn and make something fun
-- 🌱 I’m currently learning AWS Cloud/AI, SQL, Java
-- 💞️ I’m looking to collaborate on any project i can participate... maybe gaming projects...😊
-- 📫 How to reach me ...
+- 👀 I’m interested in learning and doing something fun
+- 🌱 I’m currently learning AWS Cloud/AI, SQL, and Java
+- 💞️ I’m looking to collaborate on any project I can participate in... maybe gaming projects... 😊
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... Architect, father, photography lover who decide study something new at 53 (Studying Computer Cience)
+- ⚡ Fun fact: Architect, father, and photography lover who decided to study something new at 53 (Studying Computer Science)
 
 <!---
 CaioBR82/CaioBR82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
